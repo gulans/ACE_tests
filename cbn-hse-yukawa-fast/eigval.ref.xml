@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigval>
+  <kpt ik="1" vkl="0.000000000000e0 0.000000000000e0 0.000000000000e0">
+    <state ist="1" eigenvalue="-6.310751148717e0" occupancy="2.000000000000e0"/>
+    <state ist="2" eigenvalue="-5.336098503891e-1" occupancy="2.000000000000e0"/>
+    <state ist="3" eigenvalue="2.718772871071e-1" occupancy="2.000000000000e0"/>
+    <state ist="4" eigenvalue="2.718773731568e-1" occupancy="2.000000000000e0"/>
+    <state ist="5" eigenvalue="2.718774144908e-1" occupancy="2.000000000000e0"/>
+    <state ist="6" eigenvalue="7.197266843130e-1" occupancy="0.000000000000e0"/>
+    <state ist="7" eigenvalue="7.197267085626e-1" occupancy="0.000000000000e0"/>
+    <state ist="8" eigenvalue="7.197267504471e-1" occupancy="0.000000000000e0"/>
+    <state ist="9" eigenvalue="7.885567262198e-1" occupancy="0.000000000000e0"/>
+    <state ist="10" eigenvalue="1.307996321225e0" occupancy="0.000000000000e0"/>
+    <state ist="11" eigenvalue="1.418173025127e0" occupancy="0.000000000000e0"/>
+  </kpt>
+  <kpt ik="2" vkl="0.000000000000e0 0.000000000000e0 5.000000000000e-1">
+    <state ist="1" eigenvalue="-6.310755324540e0" occupancy="2.000000000000e0"/>
+    <state ist="2" eigenvalue="-3.646749831542e-1" occupancy="2.000000000000e0"/>
+    <state ist="3" eigenvalue="-1.511559268463e-1" occupancy="2.000000000000e0"/>
+    <state ist="4" eigenvalue="1.946353499807e-1" occupancy="2.000000000000e0"/>
+    <state ist="5" eigenvalue="1.946354403161e-1" occupancy="2.000000000000e0"/>
+    <state ist="6" eigenvalue="7.721220650918e-1" occupancy="0.000000000000e0"/>
+    <state ist="7" eigenvalue="7.912247389079e-1" occupancy="0.000000000000e0"/>
+    <state ist="8" eigenvalue="7.912248009330e-1" occupancy="0.000000000000e0"/>
+    <state ist="9" eigenvalue="9.732144323219e-1" occupancy="0.000000000000e0"/>
+    <state ist="10" eigenvalue="1.268541817218e0" occupancy="0.000000000000e0"/>
+    <state ist="11" eigenvalue="1.398924242401e0" occupancy="0.000000000000e0"/>
+  </kpt>
+  <kpt ik="3" vkl="0.000000000000e0 5.000000000000e-1 5.000000000000e-1">
+    <state ist="1" eigenvalue="-6.310759522122e0" occupancy="2.000000000000e0"/>
+    <state ist="2" eigenvalue="-3.092056080155e-1" occupancy="2.000000000000e0"/>
+    <state ist="3" eigenvalue="-8.338266318541e-2" occupancy="2.000000000000e0"/>
+    <state ist="4" eigenvalue="7.732514227406e-2" occupancy="2.000000000000e0"/>
+    <state ist="5" eigenvalue="7.732521347117e-2" occupancy="2.000000000000e0"/>
+    <state ist="6" eigenvalue="5.476330804104e-1" occupancy="0.000000000000e0"/>
+    <state ist="7" eigenvalue="7.256561468502e-1" occupancy="0.000000000000e0"/>
+    <state ist="8" eigenvalue="1.085333878489e0" occupancy="0.000000000000e0"/>
+    <state ist="9" eigenvalue="1.085334008639e0" occupancy="0.000000000000e0"/>
+    <state ist="10" eigenvalue="1.192680225014e0" occupancy="0.000000000000e0"/>
+    <state ist="11" eigenvalue="1.417019316243e0" occupancy="0.000000000000e0"/>
+  </kpt>
+</eigval>

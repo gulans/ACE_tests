@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<tests xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:math="http://exslt.org/math">
+  <dir>cbn-pbe0-fast</dir>
+  <dir>cbn-pbe0-slow</dir>
+  <dir>cbn-hse-pw-fast</dir>
+  <dir>cbn-hse-pw-slow</dir>
+  <dir>cbn-hse-yukawa-fast</dir>
+  <dir>cbn-hse-yukawa-slow</dir>
+  <dir>cbn-hse-tryukawa-fast</dir>
+  <dir>cbn-hse-tryukawa-slow</dir>
+</tests>

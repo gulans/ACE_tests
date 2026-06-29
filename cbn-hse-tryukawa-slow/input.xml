@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<input>
+  <title>Boron nitride</title>
+  <structure speciespath='./'>
+    <crystal scale="6.83324967">
+      <basevect>0.0 0.5 0.5</basevect>
+      <basevect>0.5 0.0 0.5</basevect>
+      <basevect>0.5 0.5 0.0</basevect>
+    </crystal>
+    <species speciesfile='B.xml' rmt='1.4'>
+      <atom coord='0.00 0.00 0.00'/>
+    </species>
+    <species speciesfile='N.xml' rmt='1.4'>
+      <atom coord='0.25 0.25 0.25'/>
+    </species>
+  </structure>
+
+  <groundstate
+    do="fromscratch"
+    ngridk="2 2 2"
+    rgkmax="8"
+    gmaxvr="18"
+    maxscl="20"
+    epschg="1d-7"
+    epsengy="1d-7"
+    lmaxmat="8"
+    lmaxapw="8"
+    lmaxvr="8"
+    radialgridtype="cubic-2"
+    nempty="5"
+    xctype="HYB_HSE"
+    outputlevel="high"
+  >
+    <Hybrid
+      method="ACE"
+      erfcapprox="truncatedYukawa"
+      exchangetype="HF"
+      omega="0.106"
+      rpseudo="false"
+      rsurf="false"
+    />
+  </groundstate>
+</input>
