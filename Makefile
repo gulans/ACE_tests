@@ -1,7 +1,7 @@
 
-#exciting=/home/andris/exciting-neon/ace/exciting-reference/bin/exciting_smp
-#exciting=/home/andris/exciting-sodium/ace-merge/exciting/build/src/exciting_smp
-exciting=/home/andris/exciting-neon/ace/atomiczora/exciting/bin/exciting_smp
+#Modify the the following line to define which binary to run
+exciting=/path/to/exciting_binary
+
 pbe0dirlist=cbn-pbe0-fast cbn-pbe0-slow
 hsedirlist=cbn-hse-pw-fast cbn-hse-pw-slow cbn-hse-yukawa-fast cbn-hse-yukawa-slow cbn-hse-tryukawa-fast cbn-hse-tryukawa-slow
 
