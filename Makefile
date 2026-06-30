@@ -51,7 +51,7 @@ cbn-hse-tryukawa-slow::
 
 
 summary::
-	rm reports.xml
+	rm -f reports.xml
 	xsltproc collect.xsl dirlist.xml >reports.xml
 	xsltproc summary.xsl reports.xml
 
